@@ -4,7 +4,6 @@ import FramerImage from '../assets/Framer_Logo_Dark-Mode_Core.png'
 import HuaweiImage from '../assets/huaewi_logo.jpg'
 import InstaLogo from '../assets/4b48995883cfba814b286d8cf6acfca3.jpg'
 import Microsoft from '../assets/micro.jpg'
-import Walmart from '../assets/WMT-Wordmark-Standard-White-RGB.svg'
 import { authClient } from '@/lib/auth-client';
 import { toast } from 'sonner';
 import api from '@/configs/axios';

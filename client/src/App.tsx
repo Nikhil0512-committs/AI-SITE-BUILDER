@@ -1,4 +1,3 @@
-import React from 'react'
 import { Routes, Route, useLocation } from 'react-router-dom'
 import Pricing from './pages/Pricing'
 import Home from './pages/Home'
